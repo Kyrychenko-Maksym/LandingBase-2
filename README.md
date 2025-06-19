@@ -4,7 +4,7 @@ This project is a learning exercise focused on building a responsive landing pag
 
 ## ✨ Key Aspects
 
-- Implements **responsive design** principles with media queries, flexible grids, and scalable typography.
+- Implements **responsive design** principles with media queries, flexbox, and scalable typography.
 - Uses **semantic HTML elements** to ensure clean structure and accessibility best practices.
 - Integrates **JavaScript ES6+** for interactive components and enhanced user experience.
 - Applies modular SCSS styling with maintainable class naming, following the BEM methodology.
